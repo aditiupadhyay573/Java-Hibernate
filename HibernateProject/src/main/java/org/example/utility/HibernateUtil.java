@@ -1,20 +1,10 @@
 package org.example.utility;
-/**#################################################################
- *
- **#################################################################*/
+
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-
-
-/**#################################################################
- * @author ANICET ERIC KOUAME
- * @Date: 20 mars 2017
- * @Description:
- *HibernateUtil
- *#################################################################*/
 
 @SuppressWarnings("deprecation")
 public class HibernateUtil {
