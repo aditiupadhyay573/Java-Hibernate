@@ -1,8 +1,6 @@
 package org.example.entity;
 
-/**
- *
- */
+
 
 import java.io.Serializable;
 
@@ -12,12 +10,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**##########################################################
- * @author ANICET ERIC KOUAME
- * @Date 17 f�vr. 2017 08:53:12
- * @Description:
- * @Book
- *#################################################################*/
+
 @Entity
 @Table(name="Book")
 public class Books implements Serializable {
